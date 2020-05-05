@@ -23,7 +23,7 @@ public class StringManipulation {
    }
 
    public static String trim(String input) {
-      return null;
+      return input.trim();
    }
 
    public static String replace(String input, String target, String replacement) {
